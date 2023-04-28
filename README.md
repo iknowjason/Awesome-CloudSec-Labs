@@ -5,7 +5,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 ## Sorted
 
 
-| Name        | Technology         | Category  |  Author  |  Note  |
+| Name        | Technology         | Category  |  Author  |  Notes  |
 | ------------- |:-------------:| -----:| -----: | ------: |
 | [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/)    | AWS | Self-hosted, guided vulnerability lab |  AWS CIRT | Build with Cloudformation |
 
