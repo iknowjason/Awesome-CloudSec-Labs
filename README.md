@@ -78,3 +78,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## Research Labs
 
+[PurpleCloud](https://www.purplecloud.network): Using python and terraform, build your own Azure security lab.
+
+[SimulLand](https://github.com/Azure/SimuLand): Using Azure RM templates, create your own Azure security lab.
+
