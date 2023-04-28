@@ -57,6 +57,10 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## GCP
 
+[GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html): Host in your own GCP account and build with provided scripts.  It has a nice guided lab workbook.
+
+[GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat): Bring your own GCP account and build one module with terraform.  Provides attack and defense manuals.
+
 ## Kubernetes
 
 ## Container
