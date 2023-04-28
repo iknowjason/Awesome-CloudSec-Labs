@@ -5,11 +5,10 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 ## Sorted
 
 
-| Name        | Technology         | Category  |
-| ------------- |:-------------:| -----:|
-| AWS      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name        | Technology         | Category  |  Author  |  Note  |
+| ------------- |:-------------:| -----:| -----: | ------: |
+| AWS CIRT Workshop     | AWS | Self-hosted, guided vulnerability lab |  Build with Cloudformation |
+
 
 ## AWS
 
