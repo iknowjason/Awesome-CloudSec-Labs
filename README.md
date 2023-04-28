@@ -30,7 +30,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## AWS
 
-[AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/):  Build in your own AWS account and explore 5 common incident response scenarioas seen by the AWS CIRT team.
+[AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/):  Build in your own AWS account and explore 5 common incident response scenarios as seen by the AWS CIRT team.
 
 [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat):  Vulnerable by design AWS security labs with guided walkthrough.
 
