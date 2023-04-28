@@ -47,7 +47,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [Broken Azure](https://www.brokenazure.cloud/):  A vulnerable by design Azure infrastructure that you can attack.
  
-[PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/):  Guided vulnerability workshop simulating an enterprise Azure customer.  It requires PurpleCloud and terraform; username and password is ```sec588``` |
+[PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/):  Guided vulnerability workshop simulating an enterprise Azure customer.  It requires PurpleCloud and terraform; username and password is ```sec588```
 
 [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop): Vulnerable by design Azure lab with two scenarios that you build in your own Azure tenant.
 
