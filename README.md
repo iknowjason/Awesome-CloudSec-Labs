@@ -45,6 +45,16 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## Azure
 
+[Broken Azure](https://www.brokenazure.cloud/):  A vulnerable by design Azure infrastructure that you can attack.
+ 
+[PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/):  Guided vulnerability workshop simulating an enterprise Azure customer.  It requires PurpleCloud and terraform; username and password is ```sec588``` |
+
+[Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop): Vulnerable by design Azure lab with two scenarios that you build in your own Azure tenant.
+
+[AzureGoat](https://github.com/ine-labs/AzureGoat): Build one module with terraform and walk through the provided attack and defense manuals.
+
+[XMGoat](https://github.com/XMCyber/XMGoat):  Build 5 scenarios in your Azure tenant and walk through solution docs provided.
+
 ## GCP
 
 ## Kubernetes
