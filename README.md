@@ -29,11 +29,17 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [SimulLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
 
 ## AWS
+
 [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/):  Build in your own AWS account and explore 5 common incident response scenarioas seen by the AWS CIRT team.
+
 [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat):  Vulnerable by design AWS security labs with guided walkthrough.
+
 [Attacking and Defending Serverless Applications](https://attack-defend-serverless.sanscloudwars.com/):  Attack and defend a Lambda that you build in your own AWS account with author provided terraform and scripts.
+
 [flaws.cloud](http://flaws.cloud):  Challenge style with levels and clues.
+
 [flaws2.cloud](http://flaws2.cloud):  Challenge style with both Attacker and Defender paths.
+
 [Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services.
 
 
