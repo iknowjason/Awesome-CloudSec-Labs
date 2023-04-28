@@ -4,6 +4,13 @@ A list of free cloud security learning labs. Includes CTF, self-hosted workshops
 
 ## Sorted
 
+
+| Name        | Focus         | Category  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## AWS
 
 ## Azure
