@@ -26,7 +26,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Contained.af](https://contained.af/)    | Container | Author-hosted Challenge|  [Jessie Frazelle](https://twitter.com/jessfraz) | A container escape challenge, break out of it and email the author|
 | [TerraGoat](https://github.com/bridgecrewio/terragoat)    | Terraform | Self-hosted multi-cloud (AWS, Azure, GCP)|  Multiple, [Bridgecrew](https://www.bridgecrew.io/) | Vulnerable by design terraform repository|
 | [PurpleCloud](https://www.purplecloud.network)    | Azure | Research Lab |  [Jason Ostrom](https://twitter.com/securitypuck) | Using python and terraform, build your own Azure security lab|
-| [SimulLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
+| [SimuLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
 
 ## AWS
 
@@ -80,5 +80,5 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [PurpleCloud](https://www.purplecloud.network): Using python and terraform, build your own Azure security lab.
 
-[SimulLand](https://github.com/Azure/SimuLand): Using Azure RM templates, create your own Azure security lab.
+[SimuLand](https://github.com/Azure/SimuLand): Using Azure RM templates, create your own Azure security lab.
 
