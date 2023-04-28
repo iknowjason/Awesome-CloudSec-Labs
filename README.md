@@ -18,7 +18,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
 | [AzureGoat](https://github.com/ine-labs/AzureGoat)    | Azure | Self-hosted, attack and defense manuals |  Multiple | Build with terraform, one module, provides attack and defense  manuals |
 | [XMGoat](https://github.com/XMCyber/XMGoat)    | Azure | Self-hosted, guided labs |  Multiple | Build with terraform, 5 scenarios, solution docs provided |
-| [GCP Goat (joshuajebaraj](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, guided labs |  Multiple | Build with terraform, 5 scenarios, solution docs provided |
+| [GCP Goat (Josh Jebaraj](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 
 
 
