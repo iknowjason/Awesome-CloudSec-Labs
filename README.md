@@ -2,7 +2,7 @@
 
 A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. 
 
-## Sorted
+## Sorted Table
 
 
 | Name        | Technology         | Category  |  Author  |  Notes  |
