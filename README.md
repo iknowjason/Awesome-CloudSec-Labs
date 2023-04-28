@@ -16,6 +16,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, self-host in your own Azure account using terraform |
 | [PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/)    | Azure | Self-hosted, guided vulnerability workshop |  [Jason Ostrom](https://twitter.com/securitypuck) | Guided vulnerability lab requires PurpleCloud and  terraform; username and password is ```sec588``` |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
+| [AzureGoat](https://github.com/ine-labs/AzureGoat)    | Azure | Self-hosted, attack and defense manuals |  Multiple | Build with terraform, one module, provides attack and defense  manuals |
 
 
 
