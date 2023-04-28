@@ -63,7 +63,14 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## Kubernetes
 
+[Bustakube](https://www.bustakube.com/):  Download a vulnerable K8S cluster as VMs that you can import and run locally in VMWare.
+
+[Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat): Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack.  Includes a guided workbook.
+
+[Kubecon NA 2019 CTF](https://securekubernetes.com/):  Awesome CTF that you create in your GCP account.  Has a guided workbook with two attack and defense scenarios plus bonus challenges.
+
 ## Container
+[Contained.af](https://contained.af/): A container escape challenge, break out of it and email the author.
 
 ## Terraform
 
