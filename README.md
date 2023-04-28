@@ -13,6 +13,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [flaws.cloud](http://flaws.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style with levels and clues |
 | [flaws2.cloud](http://flaws2.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style Attacker and Defender paths |
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
+| [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://www.nccgroup.com) | Provides hints, build your own at their Github |
+
 
 
 
