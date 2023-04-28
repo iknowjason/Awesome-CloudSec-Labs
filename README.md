@@ -30,12 +30,11 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## AWS
 [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/):  Build in your own AWS account and explore 5 common incident response scenarioas seen by the AWS CIRT team.
-
-| [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)    | AWS | Self-hosted, guided vulnerability lab |  Multiple, [Rhino Security Labs](https://rhinosecuritylabs.com/) | Python orchestration of terraform |
-| [Attacking and Defending Serverless Applications](https://attack-defend-serverless.sanscloudwars.com/)    | AWS | Self-hosted, guided vulnerability lab |  [Ryan Nicholson](https://twitter.com/ryananicholson) | Attack and defend a Lambda that you build in your own AWS account with author provided terraform |
-| [flaws.cloud](http://flaws.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style with levels and clues |
-| [flaws2.cloud](http://flaws2.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style Attacker and Defender paths |
-| [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
+[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat):  Vulnerable by design AWS security labs with guided walkthrough.
+[Attacking and Defending Serverless Applications](https://attack-defend-serverless.sanscloudwars.com/):  Attack and defend a Lambda that you build in your own AWS account with author provided terraform and scripts.
+[flaws.cloud](http://flaws.cloud):  Challenge style with levels and clues.
+[flaws2.cloud](http://flaws2.cloud):  Challenge style with both Attacker and Defender paths.
+[Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services.
 
 
 ## Azure
