@@ -73,6 +73,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Contained.af](https://contained.af/): A container escape challenge, break out of it and email the author.
 
 ## Terraform
+[TerraGoat](https://github.com/bridgecrewio/terragoat): Vulnerable by design terraform repository.
+
 
 ## Research Labs
 
