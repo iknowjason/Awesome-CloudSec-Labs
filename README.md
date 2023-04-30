@@ -43,7 +43,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [flaws2.cloud](http://flaws2.cloud):  Challenge style with both Attacker and Defender paths.
 
-[Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services.
+[Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services without a guide showing vulnerabilities.
 
 
 ## Azure
