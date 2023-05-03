@@ -7,6 +7,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 | Name        | Technology         | Category  |  Author  |  Notes  |
 | :------------- |:-------------:| :-----:| :-----: | :------: |
+| [Pentesting.Cloud](https://pentesting.cloud/)    | AWS | Mixed |  AWS CIRT | 17 free labs, requires registration |
 | [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/)    | AWS | Self-hosted, guided lab |  AWS CIRT | Build with Cloudformation, explore 5 common incident response scenarios observed by AWS CIRT |
 | [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)    | AWS | Self-hosted, guided vulnerability lab |  Multiple, [Rhino Security Labs](https://rhinosecuritylabs.com/) | Python orchestration of terraform |
 | [Attacking and Defending Serverless Applications](https://attack-defend-serverless.sanscloudwars.com/)    | AWS | Self-hosted, guided vulnerability workshop |  [Ryan Nicholson](https://twitter.com/ryananicholson) | Attack and defend a Lambda that you build in your own AWS account with author provided terraform |
@@ -30,6 +31,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [SimuLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
 
 ## AWS
+
+[Pentesting.Cloud](https://pentesting.cloud:  17 free labs.  Requires site registration.
 
 [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/):  Build in your own AWS account and explore 5 common incident response scenarios as seen by the AWS CIRT team.
 
