@@ -78,7 +78,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## Container
 
-[Container Security 101](https://jonzeolla.com/labs/container-security-101.html):  A guided vulnerability workshop that is hosted in your AWS account.  Author provides CloudFormation stack.
+[Container Security 101](https://jonzeolla.com/labs/container-security-101.html):  A guided vulnerability workshop that is hosted in your AWS account.  Author has provided a nice lab you follow on the webpage and you build a VM with CloudFormation and then create a container.
 
 [Contained.af](https://contained.af/): A container escape challenge, break out of it and email the author.
 
