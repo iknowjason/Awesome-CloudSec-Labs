@@ -25,6 +25,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)    | Kubernetes | Self-hosted, multi-cloud, K3S|  [Madhu Akula](https://twitter.com/madhuakula) | Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack, has a guided workbook |
 | [Kubecon NA 2019 CTF](https://securekubernetes.com/)    | Kubernetes | Self-hosted in GKE|  Multiple | Create GCP account, has a guided workbook with two attack and defense scenarios plus bonus challenges|
+| [Container Security 101](https://jonzeolla.com/labs/container-security-101.html)    | Container | Self-hosted, guided workshop|  [Jon Zeolla](https://twitter.com/JonZeolla) | A guided vulnerability workshop, host in your AWS account, provided CloudFormation|
 | [Contained.af](https://contained.af/)    | Container | Author-hosted Challenge|  [Jessie Frazelle](https://twitter.com/jessfraz) | A container escape challenge, break out of it and email the author|
 | [TerraGoat](https://github.com/bridgecrewio/terragoat)    | Terraform | Self-hosted multi-cloud (AWS, Azure, GCP)|  Multiple, [Bridgecrew](https://www.bridgecrew.io/) | Vulnerable by design terraform repository|
 | [PurpleCloud](https://www.purplecloud.network)    | Azure | Research Lab |  [Jason Ostrom](https://twitter.com/securitypuck) | Using python and terraform, build your own Azure security lab|
@@ -76,9 +77,13 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Kubecon NA 2019 CTF](https://securekubernetes.com/):  Awesome CTF that you create in your GCP account.  Has a guided workbook with two attack and defense scenarios plus bonus challenges.
 
 ## Container
+
+[Container Security 101](https://jonzeolla.com/labs/container-security-101.html):  A guided vulnerability workshop that is hosted in your AWS account.  Author provides CloudFormation stack.
+
 [Contained.af](https://contained.af/): A container escape challenge, break out of it and email the author.
 
 ## Terraform
+
 [TerraGoat](https://github.com/bridgecrewio/terragoat): Vulnerable by design terraform repository.
 
 
