@@ -14,6 +14,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable)    | AWS | Self-hosted, guided vulnerability lab |  [Seth Art](https://twitter.com/sethsec) | IAM-focused priv esc playground with 31 pathways, create in your own AWS account using terraform, solid docs |
 | [flaws.cloud](http://flaws.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style with levels and clues |
 | [flaws2.cloud](http://flaws2.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style Attacker and Defender paths |
+| [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/)    | AWS | Self-hosted CTF walkthrough |  [Nick Frichette](https://twitter.com/Frichette_n) | Host with terraform in your own AWS account, vulnerable CI/CD CTF infrastructure |
 | [AWSGoat](http://https://github.com/ine-labs/AWSGoat)    | AWS | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own aws account, Build with terraform, two modules, provides attack and defense  manuals  |
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, optionally self-host in your own Azure account using terraform |
@@ -47,6 +48,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [flaws.cloud](http://flaws.cloud):  Challenge style with levels and clues.
 
 [flaws2.cloud](http://flaws2.cloud):  Challenge style with both Attacker and Defender paths.
+
+[CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/):  A vulnerable CI/CD CTF challenge hosted in your aws account with terraform.  Includes a walkthrough.
 
 [AWSGoat](http://https://github.com/ine-labs/AWSGoat): A damn vulnerable AWS infrastructure with two attack and defense manuals.
 
