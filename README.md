@@ -37,7 +37,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## AWS
 
-[CloudFoxable](https://github.com/BishopFox/cloudfoxable): Create your own vulnerable by design AWS penetration testing playground  |
+[CloudFoxable](https://github.com/BishopFox/cloudfoxable): Create your own vulnerable by design AWS penetration testing playground.
 
 [The Big IAM Challenge](https://bigiamchallenge.com/): CTF challenge to identify and exploit IAM misconfigurations.
 
