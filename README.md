@@ -36,7 +36,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## AWS
 
-| [The Big IAM Challenge](https://bigiamchallenge.com/): CTF challenge to identify and exploit IAM misconfigurations.
+[The Big IAM Challenge](https://bigiamchallenge.com/): CTF challenge to identify and exploit IAM misconfigurations.
 
 [Pentesting.Cloud](https://pentesting.cloud):  17 free labs.  Requires site registration.
 
