@@ -9,6 +9,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | :------------- |:-------------:| :-----:| :-----: | :------: |
 | [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  |
 | [The Big IAM Challenge](https://bigiamchallenge.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF challenge to identify and exploit IAM misconfigurations |
+| [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) | AWS | Self-hosted Challenge | [Doyensec](https://doyensec.com/)  | Three web app security flaws specific to AWS cloud, self-hosted with terraform  |
 | [Pentesting.Cloud](https://pentesting.cloud/)    | AWS | Self-hosted, Author-hosted CTF labs | [Nicholas Gilbert](https://www.linkedin.com/in/nicksecurity/)  | 17 free labs, requires registration, some labs are bring your own AWS account and use cloudformation to create |
 | [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/)    | AWS | Self-hosted, guided lab |  AWS CIRT | Build with Cloudformation, explore 5 common incident response scenarios observed by AWS CIRT |
 | [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)    | AWS | Self-hosted, guided vulnerability lab |  Multiple, [Rhino Security Labs](https://rhinosecuritylabs.com/) | Python orchestration of terraform |
