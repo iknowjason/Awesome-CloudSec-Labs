@@ -24,6 +24,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/)    | Azure | Self-hosted, guided vulnerability workshop |  [Jason Ostrom](https://twitter.com/securitypuck) | Guided vulnerability workshop requires PurpleCloud and  terraform; username and password is ```sec588``` |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
 | [AzureGoat](https://github.com/ine-labs/AzureGoat)    | Azure | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own Azure tenant, Build with terraform, one module, provides attack and defense  manuals |
+| [CONVEX](https://github.com/Azure/CONVEX)    | Azure | Self-hosted, CTF |  Multiple | Spin up three Capture the Flag environments in your Azure tenant using powershell |
 | [XMGoat](https://github.com/XMCyber/XMGoat)    | Azure | Self-hosted, guided labs |  Multiple | Build with terraform, 5 scenarios, solution docs provided |
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
@@ -76,6 +77,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [AzureGoat](https://github.com/ine-labs/AzureGoat): Build one module with terraform and walk through the provided attack and defense manuals.
 
 [XMGoat](https://github.com/XMCyber/XMGoat):  Build 5 scenarios in your Azure tenant and walk through solution docs provided.
+
+[CONVEX](https://github.com/Azure/CONVEX):  Spin up three Capture the Flag environments in your Azure tenant using powershell.
 
 ## GCP
 
