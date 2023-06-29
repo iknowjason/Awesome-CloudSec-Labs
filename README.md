@@ -21,6 +21,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [AWSGoat](http://https://github.com/ine-labs/AWSGoat)    | AWS | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own aws account, Build with terraform, two modules, provides attack and defense  manuals  |
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
 | [DVCA](https://github.com/m6a-UdS/dvca)    | AWS | Self-hosted demo lab | [Maxime Leblanc](https://medium.com/@mleblanc_82306) | Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation  |
+| [lambhack](https://github.com/wickett/lambhack)    | AWS | Self-hosted lab | [James Wickett](https://twitter.com/wickett) | Deploy a very vulnerable AWS lambda serverless application in your AWS account |
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, optionally self-host in your own Azure account using terraform |
 | [PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/)    | Azure | Self-hosted, guided vulnerability workshop |  [Jason Ostrom](https://twitter.com/securitypuck) | Guided vulnerability workshop requires PurpleCloud and  terraform; username and password is ```sec588``` |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
@@ -67,6 +68,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services without a guide showing vulnerabilities.
 
 [DVCA](https://github.com/m6a-UdS/dvca): Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation.
+
+[lambhack](https://github.com/wickett/lambhack): Deploy a very vulnerable AWS lambda serverless application in your AWS account.
 
 
 ## Azure
