@@ -30,6 +30,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [CONVEX](https://github.com/Azure/CONVEX)    | Azure | Self-hosted, CTF |  Multiple | Spin up three Capture the Flag environments in your Azure tenant using powershell |
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
+| [Thunder CTF](https://thunder-ctf.cloud/)    | GCP | Self-hosted, CTF|  Multiple | Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP |
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)    | Kubernetes | Self-hosted, multi-cloud, K3S|  [Madhu Akula](https://twitter.com/madhuakula) | Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack, has a guided workbook |
 | [Kubecon NA 2019 CTF](https://securekubernetes.com/)    | Kubernetes | Self-hosted in GKE|  Multiple | Create GCP account, has a guided workbook with two attack and defense scenarios plus bonus challenges|
@@ -91,6 +92,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html): Host in your own GCP account and build with provided scripts.  It has a nice guided lab workbook.
 
 [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat): Bring your own GCP account and build one module with terraform.  Provides attack and defense manuals.
+
+[Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
 
 ## Kubernetes
 
