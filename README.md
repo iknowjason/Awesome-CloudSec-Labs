@@ -22,6 +22,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
 | [DVCA](https://github.com/m6a-UdS/dvca)    | AWS | Self-hosted demo lab | [Maxime Leblanc](https://medium.com/@mleblanc_82306) | Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation  |
 | [lambhack](https://github.com/wickett/lambhack)    | AWS | Self-hosted lab | [James Wickett](https://twitter.com/wickett) | Deploy a very vulnerable AWS lambda serverless application in your AWS account |
+| [BadAzure](https://github.com/mvelazc0/BadZure)    | Azure | Self-hosted lab |  [Mauricio Velazco](https://twitter.com/mvelazco) | Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths.  Currently no walkthrough or guide. |
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, optionally self-host in your own Azure account using terraform |
 | [PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/)    | Azure | Self-hosted, guided vulnerability workshop |  [Jason Ostrom](https://twitter.com/securitypuck) | Guided vulnerability workshop requires PurpleCloud and  terraform; username and password is ```sec588``` |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
@@ -74,6 +75,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 
 ## Azure
+
+[BadAzure](https://github.com/mvelazc0/BadZure): Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths.  Currently no walkthrough or guide.
 
 [Broken Azure](https://www.brokenazure.cloud/):  A vulnerable by design Azure infrastructure that you can attack.
  
