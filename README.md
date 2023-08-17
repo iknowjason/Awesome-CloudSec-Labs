@@ -40,7 +40,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [TerraGoat](https://github.com/bridgecrewio/terragoat)    | Terraform | Self-hosted multi-cloud (AWS, Azure, GCP)|  Multiple, [Bridgecrew](https://www.bridgecrew.io/) | Vulnerable by design terraform repository|
 | [PurpleCloud](https://www.purplecloud.network)    | Azure | Research Lab |  [Jason Ostrom](https://twitter.com/securitypuck) | Using python and terraform, build your own Azure security lab|
 | [SimuLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
-| [CNAPPgoat](https://github.com/ermetic-research/cnappgoat)    | Pulumi | Self-hosted multi-cloud (AWS, Azure, GCP)| [Ermetic Research](https://ermetic.com/blog/cloud/cnappgoat-multicloud-open-source-tool-for-deploying-vulnerable-by-design-cloud-resources/) | Modularly provision vulnerable-by-design components in AWS, GCP, Azure|
+| [CNAPPgoat](https://github.com/ermetic-research/cnappgoat)    | AWS, Azure, GCP | Research Lab | [Ermetic Research](https://ermetic.com/blog/cloud/cnappgoat-multicloud-open-source-tool-for-deploying-vulnerable-by-design-cloud-resources/) | Using Pulumi, modularly provision vulnerable-by-design components in AWS, GCP, Azure|
 
 ## AWS
 
