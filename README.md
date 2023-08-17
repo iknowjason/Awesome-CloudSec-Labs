@@ -35,6 +35,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)    | Kubernetes | Self-hosted, multi-cloud, K3S|  [Madhu Akula](https://twitter.com/madhuakula) | Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack, has a guided workbook |
 | [Kubecon NA 2019 CTF](https://securekubernetes.com/)    | Kubernetes | Self-hosted in GKE|  Multiple | Create GCP account, has a guided workbook with two attack and defense scenarios plus bonus challenges|
+| [Kube Security Lab](https://github.com/raesene/kube_security_lab)    | Kubernetes | Local, kubernetes in docker|  [Rory McCune](https://twitter.com/raesene)  | An awesome local lab to create 14 vulnerable Kubernetes clusters using Docker, Ansible, and Kind.  Attack them after building, then destroy.|
 | [Container Security 101](https://jonzeolla.com/labs/container-security-101.html)    | Container | Self-hosted, guided workshop|  [Jon Zeolla](https://twitter.com/JonZeolla) | A guided vulnerability workshop, host in your AWS account, provided CloudFormation|
 | [Contained.af](https://contained.af/)    | Container | Author-hosted Challenge|  [Jessie Frazelle](https://twitter.com/jessfraz) | A container escape challenge, break out of it and email the author|
 | [TerraGoat](https://github.com/bridgecrewio/terragoat)    | Terraform | Self-hosted multi-cloud (AWS, Azure, GCP)|  Multiple, [Bridgecrew](https://www.bridgecrew.io/) | Vulnerable by design terraform repository|
@@ -106,6 +107,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat): Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack.  Includes a guided workbook.
 
 [Kubecon NA 2019 CTF](https://securekubernetes.com/):  Awesome CTF that you create in your GCP account.  Has a guided workbook with two attack and defense scenarios plus bonus challenges.
+
+[Kube Security Lab](https://github.com/raesene/kube_security_lab): An awesome local lab to create 14 vulnerable Kubernetes clusters using Docker, Ansible, and Kind.  Attack them after building, then destroy.
 
 ## Container
 
