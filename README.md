@@ -42,7 +42,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [PurpleCloud](https://www.purplecloud.network)    | Azure | Research Lab |  [Jason Ostrom](https://twitter.com/securitypuck) | Using python and terraform, build your own Azure security lab|
 | [SimuLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
 | [CNAPPgoat](https://github.com/ermetic-research/cnappgoat)    | AWS, Azure, GCP | Research Lab | [Ermetic Research](https://ermetic.com/blog/cloud/cnappgoat-multicloud-open-source-tool-for-deploying-vulnerable-by-design-cloud-resources/) | Using Pulumi, modularly provision vulnerable-by-design components in AWS, GCP, Azure|
-| [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)    | CI/CD | CTF, hosted locally |  [Palo Alto](https://www.paloaltonetworks.com/prisma/cloud/cloud-code-security) | Deliberately vulerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
+| [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)    | CI/CD | CTF, local docker |  [Palo Alto](https://www.paloaltonetworks.com/prisma/cloud/cloud-code-security) | Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
 
 ## AWS
 
@@ -132,6 +132,6 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ## CI/CD
 
-[CI/CD Goat](https://github.com/cider-security-research/cicd-goat):  Deliberately vulerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
+[CI/CD Goat](https://github.com/cider-security-research/cicd-goat):  Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
 
 
