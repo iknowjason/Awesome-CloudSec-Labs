@@ -51,6 +51,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [CloudFoxable](https://github.com/BishopFox/cloudfoxable): Create your own vulnerable by design AWS penetration testing playground.
 
+[Pwned Labs](https://pwnedlabs.io):  Requires a login.  Offers paid subscriptions.  Free hosted labs for learning cloud security.
+
 [The Big IAM Challenge](https://bigiamchallenge.com/): CTF challenge to identify and exploit IAM misconfigurations.
 
 [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/):  Three web app security flaws specific to AWS cloud, self-hosted with terraform.
