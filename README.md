@@ -33,6 +33,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
 | [Thunder CTF](https://thunder-ctf.cloud/)    | GCP | Self-hosted, CTF|  Multiple | Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP |
+| [EKS Cluster Games](https://eksclustergames.com/)    | Kubernetes | Author hosted, CTF challenge|  [Wiz ](https:www.wiz.io) | Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration |
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)    | Kubernetes | Self-hosted, multi-cloud, K3S|  [Madhu Akula](https://twitter.com/madhuakula) | Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack, has a guided workbook |
 | [Kubecon NA 2019 CTF](https://securekubernetes.com/)    | Kubernetes | Self-hosted in GKE|  Multiple | Create GCP account, has a guided workbook with two attack and defense scenarios plus bonus challenges|
@@ -107,6 +108,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
 
 ## Kubernetes
+
+[EKS Cluster Games](https://eksclustergames.com/):  Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration.
 
 [Bustakube](https://www.bustakube.com/):  Download a vulnerable K8S cluster as VMs that you can import and run locally in VMWare.
 
