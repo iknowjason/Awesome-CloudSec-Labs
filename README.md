@@ -25,7 +25,6 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [lambhack](https://github.com/wickett/lambhack)    | AWS | Self-hosted lab | [James Wickett](https://twitter.com/wickett) | Deploy a very vulnerable AWS lambda serverless application in your AWS account |
 | [BadZure](https://github.com/mvelazc0/BadZure)    | Azure | Self-hosted lab |  [Mauricio Velazco](https://twitter.com/mvelazco) | Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths.  Currently no walk through or guide. |
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, optionally self-host in your own Azure account using terraform |
-| [PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/)    | Azure | Self-hosted, guided vulnerability workshop |  [Jason Ostrom](https://twitter.com/securitypuck) | Guided vulnerability workshop requires PurpleCloud and  terraform; username and password is ```sec588``` |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
 | [AzureGoat](https://github.com/ine-labs/AzureGoat)    | Azure | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own Azure tenant, Build with terraform, one module, provides attack and defense  manuals |
 | [XMGoat](https://github.com/XMCyber/XMGoat)    | Azure | Self-hosted, guided labs |  Multiple | Build with terraform, 5 scenarios, solution docs provided |
@@ -88,8 +87,6 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [BadZure](https://github.com/mvelazc0/BadZure): Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths.  Currently no walk through or guide.
 
 [Broken Azure](https://www.brokenazure.cloud/):  A vulnerable by design Azure infrastructure that you can attack.
-
-[PurpleCloud Azure AD Workshop](https://lab.purplecloud.network/):  Guided vulnerability workshop simulating an enterprise Azure customer.  It requires PurpleCloud and terraform; username and password is ```sec588```
 
 [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop): Vulnerable by design Azure lab with two scenarios that you build in your own Azure tenant.
 
