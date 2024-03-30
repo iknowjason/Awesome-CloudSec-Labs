@@ -32,6 +32,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
 | [Thunder CTF](https://thunder-ctf.cloud/)    | GCP | Self-hosted, CTF|  Multiple | Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP |
+| [K8s Lan Party](https://www.k8slanparty.com/)    | Kubernetes | Author hosted, CTF challenge|  [Wiz ](https:www.wiz.io) | To dive into a network full of misconfigurations and exploit vulnerabilities with the goal of conquering a Kubernetes cluster |
 | [EKS Cluster Games](https://eksclustergames.com/)    | Kubernetes | Author hosted, CTF challenge|  [Wiz ](https:www.wiz.io) | Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration |
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
 | [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)    | Kubernetes | Self-hosted, multi-cloud, K3S|  [Madhu Akula](https://twitter.com/madhuakula) | Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack, has a guided workbook |
@@ -105,6 +106,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
 
 ## Kubernetes
+
+[K8s Lan Party](https://www.k8slanparty.com/): To dive into a network full of misconfigurations and exploit vulnerabilities with the goal of conquering a Kubernetes cluster, with leaderboard and requires registration.
 
 [EKS Cluster Games](https://eksclustergames.com/):  Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration.
 
