@@ -1,6 +1,6 @@
 # Awesome Cloud Security Labs
 
-A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. 
+A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 
 ## Sorted by Technology and Category
 
@@ -39,7 +39,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Kubecon NA 2019 CTF](https://securekubernetes.com/)    | Kubernetes | Self-hosted in GKE|  Multiple | Create GCP account, has a guided workbook with two attack and defense scenarios plus bonus challenges|
 | [Kube Security Lab](https://github.com/raesene/kube_security_lab)    | Kubernetes | Local, kubernetes in docker|  [Rory McCune](https://twitter.com/raesene)  | An awesome local lab to create 14 vulnerable Kubernetes clusters using Docker, Ansible, and Kind.  Attack them after building, then destroy.  Includes walkthroughs.|
 | [Container Security 101](https://jonzeolla.com/labs/container-security-101.html)    | Container | Self-hosted, guided workshop|  [Jon Zeolla](https://twitter.com/JonZeolla) | A guided vulnerability workshop, host in your AWS account, provided CloudFormation|
-| [Contained.af](https://contained.af/)    | Container | Author-hosted Challenge|  [Jessie Frazelle](https://twitter.com/jessfraz) | A container escape challenge, break out of it and email the author|
+| [Contained.af](https://github.com/genuinetools/contained.af)    | Container | Self-hosted Challenge|  [Jessie Frazelle](https://twitter.com/jessfraz) | A container escape challenge, break out of it and email the author|
 | [TerraGoat](https://github.com/bridgecrewio/terragoat)    | Terraform | Self-hosted multi-cloud (AWS, Azure, GCP)|  Multiple, [Bridgecrew](https://www.bridgecrew.io/) | Vulnerable by design terraform repository|
 | [PurpleCloud](https://www.purplecloud.network)    | Azure | Research Lab |  [Jason Ostrom](https://twitter.com/securitypuck) | Using python and terraform, build your own Azure security lab|
 | [SimuLand](https://github.com/Azure/SimuLand)    | Azure | Research Lab |  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) | Using Azure RM templates, create your own Azure security lab|
@@ -123,7 +123,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [Container Security 101](https://jonzeolla.com/labs/container-security-101.html):  A guided vulnerability workshop that is hosted in your AWS account.  Author has provided a nice lab you follow on the webpage and you build a VM with CloudFormation and then create a container.
 
-[Contained.af](https://contained.af/): A container escape challenge, break out of it and email the author.
+[Contained.af](https://github.com/genuinetools/contained.af): A container escape challenge, break out of it and email the author.
 
 ## Terraform
 
@@ -143,8 +143,3 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [CI/CD Goat](https://github.com/cider-security-research/cicd-goat):  Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.
 
 [Github Actions Goat](https://github.com/step-security/github-actions-goat):  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.
-
-
-
-
-
