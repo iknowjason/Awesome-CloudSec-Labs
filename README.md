@@ -19,7 +19,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [flaws.cloud](http://flaws.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style with levels and clues |
 | [flaws2.cloud](http://flaws2.cloud)    | AWS | Author-hosted, CTF challenge |  [Scott Piper](https://twitter.com/0xdabbad00) | Challenge style Attacker and Defender paths |
 | [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/)    | AWS | Self-hosted CTF walkthrough |  [Nick Frichette](https://twitter.com/Frichette_n) | Host with terraform in your own AWS account, vulnerable CI/CD CTF infrastructure |
-| [AWSGoat](http://https://github.com/ine-labs/AWSGoat)    | AWS | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own aws account, Build with terraform, two modules, provides attack and defense  manuals  |
+| [AWSGoat](https://github.com/ine-labs/AWSGoat)    | AWS | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own aws account, Build with terraform, two modules, provides attack and defense  manuals  |
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
 | [DVCA](https://github.com/m6a-UdS/dvca)    | AWS | Self-hosted demo lab | [Maxime Leblanc](https://medium.com/@mleblanc_82306) | Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation  |
 | [lambhack](https://github.com/wickett/lambhack)    | AWS | Self-hosted lab | [James Wickett](https://twitter.com/wickett) | Deploy a very vulnerable AWS lambda serverless application in your AWS account |
@@ -72,7 +72,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/):  A vulnerable CI/CD CTF challenge hosted in your aws account with terraform.  Includes a walkthrough.
 
-[AWSGoat](http://https://github.com/ine-labs/AWSGoat): A damn vulnerable AWS infrastructure with two attack and defense manuals.
+[AWSGoat](https://github.com/ine-labs/AWSGoat): A damn vulnerable AWS infrastructure with two attack and defense manuals.
 
 [Sadcloud](https://github.com/nccgroup/sadcloud): Create vulnerable AWS services without a guide showing vulnerabilities.
 
