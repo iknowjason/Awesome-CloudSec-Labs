@@ -29,6 +29,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [AzureGoat](https://github.com/ine-labs/AzureGoat)    | Azure | Self-hosted, attack and defense manuals |  Multiple, ine-labs | Bring your own Azure tenant, Build with terraform, one module, provides attack and defense  manuals |
 | [XMGoat](https://github.com/XMCyber/XMGoat)    | Azure | Self-hosted, guided labs |  Multiple | Build with terraform, 5 scenarios, solution docs provided |
 | [CONVEX](https://github.com/Azure/CONVEX)    | Azure | Self-hosted, CTF |  Multiple | Spin up three Capture the Flag environments in your Azure tenant using powershell |
+| [GCP CTF Workshop](https://github.com/n0jam/gcp-ctf-workshop)    | GCP | Self-hosted, lab guide |  [Marion Säckel](https://www.linkedin.com/in/marion-s%C3%A4ckel-5819a420a/), [Marcus Hallberg](https://www.linkedin.com/in/hallbergmarcus/) | Host in your own GCP account, build with terraform using bash setup script, solution and hints provided |
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
 | [Thunder CTF](https://thunder-ctf.cloud/)    | GCP | Self-hosted, CTF|  Multiple | Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP |
@@ -98,6 +99,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [CONVEX](https://github.com/Azure/CONVEX):  Spin up three Capture the Flag environments in your Azure tenant using powershell.
 
 ## GCP
+
+| [GCP CTF Workshop](https://github.com/n0jam/gcp-ctf-workshop): Self-hosted, lab guide.  Host in your own GCP account, build with terraform using bash setup script, solution and hints provided.
 
 [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html): Host in your own GCP account and build with provided scripts.  It has a nice guided lab workbook.
 
