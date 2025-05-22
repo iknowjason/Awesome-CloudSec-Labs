@@ -10,6 +10,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  |
 | [Pwned Labs](https://pwnedlabs.io) | AWS | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
 | [The Big IAM Challenge](https://bigiamchallenge.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF challenge to identify and exploit IAM misconfigurations |
+| [The Cloud Hunting Games](https://www.cloudhuntinggames.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild  |
 | [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) | AWS | Self-hosted Challenge | [Doyensec](https://doyensec.com/)  | Three web app security flaws specific to AWS cloud, self-hosted with terraform  |
 | [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/en-US)    | AWS | Self-hosted, guided labs | AWS Well-Architected  | Several hands-on-labs to help you learn, measure, and improve the security of your architecture using best practices from the Security pillar of the AWS Well-Architected Framework. |
 | [AWS CIRT Workshop](https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/)    | AWS | Self-hosted, guided lab |  AWS CIRT | Build with Cloudformation, explore 5 common incident response scenarios observed by AWS CIRT |
@@ -56,6 +57,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Pwned Labs](https://pwnedlabs.io):  Requires a login.  Offers paid subscriptions.  Free hosted labs for learning cloud security.
 
 [The Big IAM Challenge](https://bigiamchallenge.com/): CTF challenge to identify and exploit IAM misconfigurations.
+
+[The Cloud Hunting Games](https://www.cloudhuntinggames.com/): CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild.
 
 [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/):  Three web app security flaws specific to AWS cloud, self-hosted with terraform.
 
