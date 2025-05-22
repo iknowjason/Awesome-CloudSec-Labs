@@ -49,6 +49,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [CNAPPgoat](https://github.com/ermetic-research/cnappgoat)    | AWS, Azure, GCP | Research Lab | [Ermetic Research](https://ermetic.com/blog/cloud/cnappgoat-multicloud-open-source-tool-for-deploying-vulnerable-by-design-cloud-resources/) | Using Pulumi, modularly provision vulnerable-by-design components in AWS, GCP, Azure|
 | [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)    | CI/CD | CTF, local docker |  [Palo Alto](https://www.paloaltonetworks.com/prisma/cloud/cloud-code-security) | Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
 | [Github Actions Goat](https://github.com/step-security/github-actions-goat)    | CI/CD | Self-hosted Github |  [StepSecurity](https://www.stepsecurity.io/) |  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.|
+| [PaaS Cloud Goat](https://github.com/Coalfire-Research/paas-cloud-goat)    | PaaS | Deployed into your Salesforce account |  [Coalfire Research](https://coalfire.com/) |  A simulated vulnerable Salesforce application, hosted in your own SF account.  Simulates a deployed custom application with security tests and documentation you can use to learn.
 
 
 ## AWS
@@ -152,3 +153,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [CI/CD Goat](https://github.com/cider-security-research/cicd-goat):  Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.
 
 [Github Actions Goat](https://github.com/step-security/github-actions-goat):  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.
+
+## PaaS
+
+[PaaS Cloud Goat](https://github.com/Coalfire-Research/paas-cloud-goat):  A simulated vulnerable Salesforce application, hosted in your own SF account.  Simulates a deployed custom application with security tests and documentation you can use to learn.
