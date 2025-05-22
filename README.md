@@ -24,6 +24,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [Sadcloud](https://github.com/nccgroup/sadcloud)    | AWS | Self-hosted |  Multiple, [NCC Group](https://www.nccgroup.com) | Terraform code; not guided like CloudGoat |
 | [DVCA](https://github.com/m6a-UdS/dvca)    | AWS | Self-hosted demo lab | [Maxime Leblanc](https://medium.com/@mleblanc_82306) | Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation  |
 | [lambhack](https://github.com/wickett/lambhack)    | AWS | Self-hosted lab | [James Wickett](https://twitter.com/wickett) | Deploy a very vulnerable AWS lambda serverless application in your AWS account |
+| [AWSCloudPentest](https://github.com/punitdarji/AWSCloudPentest)    | AWS | Self-hosted lab | [Punit Darji](https://www.youtube.com/playlist?list=PLkfaD6nYyhM229NF7YtRaEOpU8Oc1hchR) | Deploy vulnerable AWS scenarios in your account using terraform and learn how to exploit them.  Companion YouTube [channel](https://www.youtube.com/@punitdarji1871). |
 | [BadZure](https://github.com/mvelazc0/BadZure)    | Azure | Self-hosted lab |  [Mauricio Velazco](https://twitter.com/mvelazco) | Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths.  Currently no walk through or guide. |
 | [Broken Azure](https://www.brokenazure.cloud/)    | Azure | Author-hosted, CTF challenge |  [Secura](https://github.com/SecuraBV/brokenbydesign-azure) | Provides hints, optionally self-host in your own Azure account using terraform |
 | [Mandiant Azure Workshop](https://github.com/mandiant/Azure_Workshop)    | Azure | Self-hosted, guided commands |  Multiple | Vulnerable by design Azure lab with two scenarios; build with terraform |
@@ -83,6 +84,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [DVCA](https://github.com/m6a-UdS/dvca): Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation.
 
 [lambhack](https://github.com/wickett/lambhack): Deploy a very vulnerable AWS lambda serverless application in your AWS account.
+
+[AWSCloudPentest](https://github.com/punitdarji/AWSCloudPentest): Deploy vulnerable AWS scenarios in your account using terraform and learn how to exploit them.  He has a companion YouTube [channel[(https://www.youtube.com/@punitdarji1871).
 
 [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/en-US): Self-deployed hands-on-labs to help you learn, measure, and improve the security of your architecture using best practices from the Security pillar of the AWS Well-Architected Framework.
 
