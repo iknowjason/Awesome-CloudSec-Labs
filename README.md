@@ -36,6 +36,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [GCP Goat (Josh Jebaraj)](https://gcpgoat.joshuajebaraj.com/index.html)    | GCP | Self-hosted, mdbook lab guide |  [Josh Jebaraj](https://joshuajebaraj.com/) | Host in your own GCP account, build with provided scripts, nice guided lab workbook |
 | [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat)    | GCP | Self-hosted, attack and defense manuals|  Multiple, ine-labs | Bring your own GCP account, Build with terraform, one module, provides attack and defense manuals |
 | [Thunder CTF](https://thunder-ctf.cloud/)    | GCP | Self-hosted, CTF|  Multiple | Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP |
+| [OWASP EKS Goat](https://eksgoat.kubernetesvillage.com)| Kubernetes/EKS | Deployed into your own AWS EKS cluster | [Anjali Shukla](https://www.linkedin.com/in/peachycloudsecurity/)/[Divyanshu Shukla](https://www.linkedin.com/in/iamdivyanshu/) | An intentionally vulnerable AWS EKS environment simulating real‑world misconfigurations, IAM flaws, and pod breakout paths along with aws native defense. Includes 20+ attack‑defense labs you can deploy and practice hands‑on. |
 | [K8s Lan Party](https://www.k8slanparty.com/)    | Kubernetes | Author hosted, CTF challenge|  [Wiz ](https:www.wiz.io) | To dive into a network full of misconfigurations and exploit vulnerabilities with the goal of conquering a Kubernetes cluster |
 | [EKS Cluster Games](https://eksclustergames.com/)    | Kubernetes | Author hosted, CTF challenge|  [Wiz ](https:www.wiz.io) | Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration |
 | [Bustakube](https://www.bustakube.com/)    | Kubernetes | Self-hosted, import VMs|  [Jay Beale](https://twitter.com/jaybeale) | Vulnerable K8S cluster, Download the VMs to build cluster and import into VMWare, run it |
@@ -51,8 +52,6 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)    | CI/CD | CTF, local docker |  [Palo Alto](https://www.paloaltonetworks.com/prisma/cloud/cloud-code-security) | Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.|
 | [Github Actions Goat](https://github.com/step-security/github-actions-goat)    | CI/CD | Self-hosted Github |  [StepSecurity](https://www.stepsecurity.io/) |  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.|
 | [PaaS Cloud Goat](https://github.com/Coalfire-Research/paas-cloud-goat)    | PaaS | Deployed into your Salesforce account |  [Coalfire Research](https://coalfire.com/) |  A simulated vulnerable Salesforce application, hosted in your own SF account.  Simulates a deployed custom application with security tests and documentation you can use to learn.|
-| [OWASP EKS Goat](https://eksgoat.kubernetesvillage.com)| Kubernetes/EKS | Deployed into your own AWS EKS cluster | [Anjali Shukla](https://www.linkedin.com/in/peachycloudsecurity/)/[Divyanshu Shukla](https://www.linkedin.com/in/iamdivyanshu/) | An intentionally vulnerable AWS EKS environment simulating real‑world misconfigurations, IAM flaws, and pod breakout paths along with aws native defense. Includes 20+ attack‑defense labs you can deploy and practice hands‑on. |
-
 
 ## AWS
 
@@ -92,8 +91,6 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/en-US): Self-deployed hands-on-labs to help you learn, measure, and improve the security of your architecture using best practices from the Security pillar of the AWS Well-Architected Framework.
 
-[OWASP EKS Goat](https://eksgoat.kubernetesvillage.com):  An intentionally vulnerable AWS EKS environment simulating real‑world misconfigurations, IAM flaws, and pod breakout along with defense hands on lab. Includes 20+ attack‑defense labs you can deploy and practice hands‑on.
-
 
 ## Azure
 
@@ -122,6 +119,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
 
 ## Kubernetes
+
+[OWASP EKS Goat](https://eksgoat.kubernetesvillage.com):  An intentionally vulnerable AWS EKS environment simulating real‑world misconfigurations, IAM flaws, and pod breakout along with defense hands on lab. Includes 20+ attack‑defense labs you can deploy and practice hands‑on.
 
 [K8s Lan Party](https://www.k8slanparty.com/): To dive into a network full of misconfigurations and exploit vulnerabilities with the goal of conquering a Kubernetes cluster, with leaderboard and requires registration.
 
