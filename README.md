@@ -7,7 +7,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 | Name        | Technology         | Category  |  Author  |  Notes  |
 | :------------- |:-------------:| :-----:| :-----: | :------: |
-| [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  |
+| [The Ultimate Cloud Security Championship](https://www.cloudsecuritychampionship.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://wiz.io)  | A monthly CTF challenge, with challenges curated by a Star Wiz researcher.  Challenges and leaderboard hosted by Wiz.  |
+| [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  
 | [Pwned Labs](https://pwnedlabs.io) | AWS | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
 | [The Big IAM Challenge](https://bigiamchallenge.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF challenge to identify and exploit IAM misconfigurations |
 | [The Cloud Hunting Games](https://www.cloudhuntinggames.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild  |
@@ -54,6 +55,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [PaaS Cloud Goat](https://github.com/Coalfire-Research/paas-cloud-goat)    | PaaS | Deployed into your Salesforce account |  [Coalfire Research](https://coalfire.com/) |  A simulated vulnerable Salesforce application, hosted in your own SF account.  Simulates a deployed custom application with security tests and documentation you can use to learn.|
 
 ## AWS
+
+[The Ultimate Cloud Security Championship](https://www.cloudsecuritychampionship.com/): A monthly CTF challenge, with challenges curated by a Star Wiz researcher.  Challenges and leaderboard hosted by Wiz.
 
 [CloudFoxable](https://github.com/BishopFox/cloudfoxable): Create your own vulnerable by design AWS penetration testing playground.
 
