@@ -9,7 +9,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | :------------- |:-------------:| :-----:| :-----: | :------: |
 | [The Ultimate Cloud Security Championship](https://www.cloudsecuritychampionship.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://wiz.io)  | A monthly CTF challenge, with challenges curated by a Star Wiz researcher.  Challenges and leaderboard hosted by Wiz.  |
 | [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  
-| [Pwned Labs](https://pwnedlabs.io) | AWS | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
+| [Pwned Labs](https://pwnedlabs.io) | AWS, Azure, GCP, Kubernetes | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
 | [The Big IAM Challenge](https://bigiamchallenge.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF challenge to identify and exploit IAM misconfigurations |
 | [The Cloud Hunting Games](https://www.cloudhuntinggames.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild  |
 | [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) | AWS | Self-hosted Challenge | [Doyensec](https://doyensec.com/)  | Three web app security flaws specific to AWS cloud, self-hosted with terraform  |
@@ -111,6 +111,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [CONVEX](https://github.com/Azure/CONVEX):  Spin up three Capture the Flag environments in your Azure tenant using powershell.
 
+[Pwned Labs](https://pwnedlabs.io/explore): Author-hosted guided Azure and Entra ID labs. Requires a login. Some labs are free, e.g. [Azure Blob Container to Initial Access](https://pwnedlabs.io/explore/azure-blob-container-to-initial-access) and [Intro to Azure Recon with BloodHound](https://pwnedlabs.io/explore/intro-to-azure-recon-with-bloodhound).
+
 ## GCP
 
 | [GCP CTF Workshop](https://github.com/n0jam/gcp-ctf-workshop): Self-hosted, lab guide.  Host in your own GCP account, build with terraform using bash setup script, solution and hints provided.
@@ -120,6 +122,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat): Bring your own GCP account and build one module with terraform.  Provides attack and defense manuals.
 
 [Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
+
+[Pwned Labs](https://pwnedlabs.io/explore): Author-hosted guided Google Cloud and Workspace labs. Requires a login. Some labs are free, e.g. [Reveal Hidden Files in Google Storage](https://pwnedlabs.io/explore/reveal-hidden-files-in-google-storage) and [Illuminate GCP by Fuzzing IAM Permissions](https://pwnedlabs.io/explore/illuminate-gcp-by-fuzzing-iam-permissions).
 
 ## Kubernetes
 
@@ -136,6 +140,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [Kubecon NA 2019 CTF](https://securekubernetes.com/):  Awesome CTF that you create in your GCP account.  Has a guided workbook with two attack and defense scenarios plus bonus challenges.
 
 [Kube Security Lab](https://github.com/raesene/kube_security_lab): An awesome local lab to create 14 vulnerable Kubernetes clusters using Docker, Ansible, and Kind.  Attack them after building, then destroy.  Inludes walkthroughs.
+
+[Pwned Labs](https://pwnedlabs.io/explore): Author-hosted guided Kubernetes labs, no cluster needed. Free examples: [Exploit Kubernetes Overly Permissive RBAC](https://pwnedlabs.io/explore/exploit-kubernetes-overly-permissive-rbac) and [Secure Kubernetes using OPA Gatekeeper](https://pwnedlabs.io/explore/secure-kubernetes-using-opa-gatekeeper).
 
 ## Container
 
